@@ -1,5 +1,5 @@
 ## Cutting down on costly computation of matrix by caching the inverse of a matrix rather than compute it repeatedly
-## for unchanged matrix.
+## for unchanged matrix.  
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
